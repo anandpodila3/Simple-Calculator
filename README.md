@@ -1,2 +1,4 @@
-# simple_calculator-project
-This is my first Python project. This is a simple calculator. I used tkinter for graphical user interface. 
+# Simple-Calculator
+
+This is a simple snake game project.
+In this project, I used Python and I used tkinter for graphical user interface.
